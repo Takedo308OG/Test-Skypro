@@ -14,3 +14,4 @@
 8. Экспортитруйте JSON-коллекцию в Postman.
 
 ## Ссылка на репозиторий
+https://github.com/Takedo308OG/Test-Skypro
